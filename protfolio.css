@@ -1,0 +1,301 @@
+
+body
+{
+
+    background-position: center center; /*make background responsive*/
+    background: linear-gradient( rgba(128,128,128,0.5), rgba(0, 0, 0, 0.5) ),url(https://cdn-cms.f-static.com/uploads/1223613/2000_5b20e4fdb61a1.jpg) ;
+    background-attachment: fixed;
+    background-size: cover;
+    line-height: 1.5;
+}
+
+
+
+.heading
+{
+
+letter-spacing: 2vw;
+color:white;
+font-size: 4vw;
+font-family: 'Open Sans',Arial,sans-serif;
+margin-left: 34%;
+padding-bottom: 0.5vw;
+}
+
+
+.horizontal
+{
+
+    margin-left:30%;
+    margin-right:30%;
+    color:white;
+    border:solid;
+    border-width: 0.08vw;
+}
+.navbar 
+            
+{
+    width: 100vw;
+}
+p{
+    margin-left: 22vw;
+    font-size: 1.5vw;
+    letter-spacing:11px;
+    color: white;
+    font-family: 'Open Sans',Arial,sans-serif;
+    margin-bottom: 4%;
+    text-shadow: 2px 2px 3px #000;
+}
+
+nav
+{
+    margin-bottom: 20%;
+}
+
+p1
+{
+    border: 0;
+    background-color:rgba(204,174,121,0.7) ;
+    color:white;
+    padding: 4px 31px;
+    font-family: 'Open Sans',Arial,sans-serif;
+    letter-spacing: 0.9vw;
+    margin-left: 39%;
+ 
+    margin-bottom: 35%;
+
+}
+
+.bg-dark {
+    background-color:rgba(209,174,121,0.7) !important;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 1.5rem;
+    font-size: 20px;
+    font-family: 'Cardo', serif;
+}
+
+.navbar {
+    justify-content: space-between;
+    padding: 0.1rem 3rem;
+}
+
+
+ .navbar-collapse {
+
+ flex-grow: 0;
+
+}
+
+.navbar-brand {
+
+    font-size: 2rem;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-dark .navbar-brand {
+
+    font-family: 'Cardo', serif;
+}
+
+.jumbotron {
+
+    background-color: white;
+
+
+}
+.heading_about
+{
+    margin-left: 45%;
+}
+
+
+
+    p
+    {
+        float: left;
+
+    }
+
+
+   h4 {
+    margin-left: 46%;
+    margin-right: 50%;
+    /* border: solid; */
+    border-width: 1vw;
+    color: #000;
+    letter-spacing: 0.3vw;
+   }
+
+   .horitonzal_about {
+    margin-right: 42%;
+    margin-left: 43%;
+    color: rgba(209,174,121,0.7);
+    border: solid;
+    border-width: 0.05vw;
+}
+ 
+   .row
+   {
+    background-color: white;
+   
+    
+ 
+    
+   }
+
+   .col-9
+   {
+    margin-top: 3%;
+    margin-left: 12%
+   }
+   
+.col-4 {
+ 
+    height: 22vw;
+    margin-left: 9%;
+  
+    margin-top: 1vw;
+}
+.col-6 {
+    font-size: 1vw;
+    color: #000;
+    text-shadow: none;
+    font-family: 'Open Sans',Arial,sans-serif;
+    letter-spacing: 0.2vw;
+    margin-right: -4vw;
+    margin-left: 1vw;
+    margin-top: 3vw;
+    margin-top: 2vw;
+    padding-right: 12vw;
+   
+    margin-bottom: 3vw;
+}
+
+.img1
+{
+    height: 20vw;
+    width: 22vw;
+    margin-left: 8vw;
+}
+
+#row1
+{
+   
+    background-color: #fafafa;
+    padding-bottom: 7%;
+}
+
+.img2
+{
+    width: 29%;
+    margin-right: 6px;
+    margin-bottom: 6px;
+}
+#h4
+{
+    margin-left: 42%;
+}
+#images
+{
+    height: 63%;
+    width: 20%;
+    opacity: 0.8;
+    
+}
+.horitonzal_portfolio
+{
+    margin-right: 42%;
+    margin-left: 40%;
+    color: rgba(209,174,121,0.7);
+    border: solid;
+    border-width: 0.05vw;
+}
+
+#heading_hire_me
+{
+
+    margin-right:10% ;
+    margin-right: 20%;
+
+    
+}
+
+#information
+{
+ font-size: 34%;
+ color: black;
+ text-shadow: none;
+ letter-spacing: normal;
+}
+
+#col-91
+{
+   
+        margin-left: 27%;
+        margin-right: 20%;
+        margin-top: -4%;
+    }
+
+.horitonzal_hire_me
+{
+    margin-right: 38%;
+    margin-left: 40%;
+    color: rgba(209,174,121,0.7);
+    border: solid;
+    border-width: 0.05vw;
+}
+
+.form-control {
+    display: block;
+    width: 66%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: white;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,0.15);
+    border-radius: 0.25rem;
+    -webkit-transition: border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+}
+
+.form-check {
+
+    margin-bottom: 4%;
+}
+
+.btn {
+    margin-left: 23%;
+    width: 12%;
+    background-color: rgba(209,174,121,0.7);
+    margin-bottom: 2%;
+}     
+}
+
+.btn-primary
+ {
+    
+    font-size: 2vw;
+}
+.card 
+{
+   
+    padding: 40px 0;
+ 
+    font-size: 0.8rem;
+}
+
+bg-dark {
+    background-color: #fafafa;
+}
